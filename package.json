@@ -1,0 +1,35 @@
+{
+  "name": "pop-equals",
+  "version": "0.0.0",
+  "description": "Polymorphic deep equals operator",
+  "main": "pop-equals.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasminum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/pop-equals.git"
+  },
+  "keywords": [
+    "pop",
+    "polymorphic",
+    "operator",
+    "deep",
+    "equals"
+  ],
+  "author": "Kris Kowal <kris@cixar.com>",
+  "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/kriskowal/pop-equals/issues"
+  },
+  "homepage": "https://github.com/kriskowal/pop-equals",
+  "devDependencies": {
+    "jasminum": "^2.0.5"
+  },
+  "dependencies": {
+    "mini-map": "^1.0.0"
+  }
+}
