@@ -1,6 +1,6 @@
 {
   "name": "pop-equals",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Polymorphic deep equals operator",
   "main": "pop-equals.js",
   "directories": {
